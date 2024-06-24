@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-32x32.png">
+    <link rel="manifest" href="favicon-32x32.png">
+    <link rel="stylesheet" href="drop.css" />
+  </head>
+
+  <body>
+    <form>
+      <div class="form-group">
+        <label for="country">Country:</label>
+        <select id="country" class="form-control">
+          <option value="" disabled selected>Select a country</option>
+          <option value="usa">USA</option>
+          <option value="canada">Canada</option>
+          <option value="mexico">Mexico</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="state">State:</label>
+        <select id="state" class="form-control">
+          <option value="" disabled selected>Select a state</option>
+          <option value="new-york">New York</option>
+          <option value="california">California</option>
+          <option value="texas">Texas</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="city">City:</label>
+        <select id="city" class="form-control">
+          <option value="" disabled selected>Select a city</option>
+          <option value="new-york-city">New York City</option>
+          <option value="los-angeles">Los Angeles</option>
+          <option value="houston">Houston</option>
+        </select>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    
+  </body>
+  <script src="drop.js">
+
+  </script>
+</html>

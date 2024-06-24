@@ -1,0 +1,118 @@
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\CollegeSpace.dll.config
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\CollegeSpace.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\CollegeSpace.pdb
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csc.exe
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csc.exe.config
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csc.rsp
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csi.exe
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csi.exe.config
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csi.rsp
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.AppContext.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Collections.Immutable.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Console.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Globalization.Calendars.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.Compression.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.FileSystem.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Net.Http.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Net.Sockets.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Reflection.Metadata.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.ValueTuple.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.XPath.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\vbc.exe
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\vbc.exe.config
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\vbc.rsp
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\VBCSCompiler.exe
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\VBCSCompiler.exe.config
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.csproj.AssemblyReference.cache
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.csproj.CoreCompileInputs.cache
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.csproj.CopyComplete
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.dll
+D:\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.pdb
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\CollegeSpace.dll.config
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\CollegeSpace.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\CollegeSpace.pdb
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csc.exe
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csc.exe.config
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csc.rsp
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csi.exe
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csi.exe.config
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\csi.rsp
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.Managed.Core.targets
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.AppContext.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Collections.Immutable.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Console.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Globalization.Calendars.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.Compression.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.FileSystem.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Net.Http.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Net.Sockets.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Reflection.Metadata.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.ValueTuple.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.XmlDocument.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.XPath.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\vbc.exe
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\vbc.exe.config
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\vbc.rsp
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\VBCSCompiler.exe
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\roslyn\VBCSCompiler.exe.config
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.csproj.AssemblyReference.cache
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.csproj.CoreCompileInputs.cache
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.csproj.CopyComplete
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.dll
+F:\college project\CollegeSpace project\CollegeSpace\CollegeSpace\obj\Debug\CollegeSpace.pdb

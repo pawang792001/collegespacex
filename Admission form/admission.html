@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-32x32.png">
+    <link rel="manifest" href="favicon-32x32.png">
+    <link rel="stylesheet" href="admission.css" />
+</head>
+
+<body>
+    <div class="container" >       
+        <form action="" method="get">
+            <div class="col-6-sm">
+            <h1 class="main_heading">ADMISSION FORM</h1>
+            <hr />
+            <h2>Candidate Info</h2>
+            <p>
+                Name🤔: *
+                <input type="text" name="name" placeholder="Name" required>
+            </p>
+            <p>
+                <fieldset>
+                    <legend>Gender</legend>
+                    Male🙎♂️*<input type="radio" name="gender" required="Male">
+                    Female🙎‍♀️ *<input type="radio" name="gender" required="Female">
+                    Prefer Not To Say🤷‍♂️*<input type="radio" name="gender" required="Female">
+                </fieldset>
+            <p>
+                Date-of-Birth📆: <input type="date" name="exp_date" id="exp_date">
+
+            </p>
+            <p>
+                Address📃:
+                <textarea name="address" id="address" cols="100" rows="8"></textarea>
+            </p>
+            <p>
+                Mail📧: *<input type="email" name="email" required id="email">
+            </p>
+            <p>
+                Pincode📌: <input type="number" name="pincode" id="pincode">
+            </p>
+        </div>
+        <div class="col-6-sm">
+            <h2>Academic information</h2>
+            <p>
+                Course Type🎓:
+                <select name="card_type" id="card_type">
+                    <option value="">--Select a Course Type</option>
+                    <option value="Visa">BSC(information and technology)</option>
+                    <option value="MasterCard">BSC(computer science)</option>
+                    <option value="Rupay">BCA</option>
+                    <option value="Rupay">MSC IT</option>
+                    <option value="Rupay">MSC CS</option>
+                    <option value="Rupay">B.E Electronic</option>
+                    <option value="Rupay">B.E Mechanical</option>
+                    <option value="Rupay">B.E Aeronautic</option>
+                    <option value="Rupay">BAF </option>
+                    <option value="Rupay">BAMS</option>
+                    <option value="Rupay">FIANANCE</option>
+                    <option value="Rupay">Desginer</option>
+                    <option value="Rupay">Architecture</option>
+                    <option value="Rupay">MBBS</option>
+                    <option value="Rupay">BAMS</option>
+                </select>
+            </p>
+            <p>
+                Academic Year🎓:
+                <select name="card_type" id="card_type">
+                    <option value="">--Select a Academic year</option>
+                    <option value="Visa">FIRST YEAR</option>
+                    <option value="MasterCard">SECOND YEAR</option>
+                    <option value="Rupay">THIRD YEAR</option>
+                    <option value="Rupay">FOURTH YEAR</option>
+                    <option value="Rupay">FIRST YEAR JR COLLEGE</option>
+                    <option value="Rupay">SECOND YEAR JR COLLEGE</option>
+
+                </select>
+            </p>
+            <p>
+                Enter Your Aadhar No🆔:<input type="number" data-type="adhaar-number" minlength="8" maxLength="15">
+            </p>
+            <p>
+                Choose your photo 🆔:<input type="file" name="Registration ID" id="photo">
+            </p>
+            <p>
+                
+                <form action="../payment form/payment.html">
+                    <input type="submit" value="Submit Form" />
+                </form></p>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

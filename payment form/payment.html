@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-32x32.png">
+    <link rel="manifest" href="favicon-32x32.png">
+    <link rel="stylesheet" href="payment.css">
+</head>
+
+<body>
+    <div class="container">
+        <form action="" method="get">
+            <h1 class="main_heading">💳Payment FORM</h1>
+            <hr />
+            <h2>User Information</h2>
+            <p>
+                Name🤔: *
+                <input type="text" name="name" placeholder="Name" required>
+            </p>
+            <p>
+                <fieldset>
+                    <legend>Gender</legend>
+                    Male🙎 *<input type="radio" name="gender" required="Male">
+                    Female🙎‍♀️ *<input type="radio" name="gender" required="Female">
+                </fieldset>
+            </p>
+            <p>
+                Address📃:
+                <textarea name="address" id="address" cols="100" rows="8"></textarea>
+            </p>
+            <p>
+                Mail📧: *<input type="email" name="email" required id="email">
+            </p>
+            <p>
+                Pincode📌: <input type="number" name="pincode" id="pincode">
+            </p>
+            <h2>Payment Information</h2>
+            <p>
+                Card Type💳:
+                <select name="card_type" id="card_type">
+                    <option value="">--Select a Card Type</option>
+                    <option value="Visa">Visa</option>
+                    <option value="MasterCard">MasterCard</option>
+                    <option value="Rupay">Rupay</option>
+                </select>
+            </p>
+            <p>
+                Card Number💳<input type="number" name="card_number" id="card_number">
+            </p>
+            <p>
+                Expiration Date📆: <input type="date" name="exp_date" id="exp_date">
+            </p>
+            <p>
+                CVV💳:<input type="password" name="CVV" id="CVV">
+            </p>
+            <input type="submit" value="Pay Now">
+        </form>
+    </div>
+</body>
+</html>
